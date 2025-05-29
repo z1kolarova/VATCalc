@@ -18,8 +18,6 @@ public:
 private slots:
     void recalculate();
 
-    void on_pushButton_clicked();
-
 private:
     Ui::MainWindow *ui;
 };
